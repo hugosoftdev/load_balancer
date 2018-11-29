@@ -4,7 +4,6 @@ import botocore
 import json
 from botocore.exceptions import ClientError
 import time
-import paramiko
 
 
 def script_commands():
